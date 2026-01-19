@@ -485,7 +485,7 @@ class CochesSeeder extends Seeder
                 'url_imdb' => 'https://www.imdb.com/title/tt4749508/'
             ],
 
-            // 1 Kart
+            // Karts
             "Birel ART N35" => [
                 'marca' => 'Birel ART',
                 'categoria_id' => $kart->id,
