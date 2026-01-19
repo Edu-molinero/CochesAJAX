@@ -37,7 +37,7 @@
     <nav class="navbar navbar-dark bg-dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">
-                <i class="bi bi-film"></i> Catálogo de Coches
+                <i class="bi bi-car-front"></i> Catálogo de Coches
             </a>
             <div>
                 <button class="btn btn-outline-light btn-sm me-2" data-bs-toggle="modal" data-bs-target="#modalCategorias">
